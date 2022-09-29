@@ -1,0 +1,8 @@
+clear
+cowsay -f ghostbusters “M.R_CRX” |
+lolcat
+toilet -f standard -F gay “M.R_CRX“
+date | lolcat
+neofetch
+echo -e "\e[93mI'AM NOW LEARNING TO HACK\e[0m"
+PS1='\[\033[1;31m\]##~~M.R_CRX~~##\033\[\033[1;92m\] '
